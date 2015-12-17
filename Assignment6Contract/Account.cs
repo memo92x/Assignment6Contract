@@ -9,7 +9,6 @@ namespace Assignment6Contract
 {
     class Account
     {
-
         private double balance;
         public double Balance { get { return balance; } }
 
